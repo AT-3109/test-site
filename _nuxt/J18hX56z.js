@@ -1,1 +1,0 @@
-import{l as c,b as r,c as t,a5 as n}from"./D5A51bDx.js";const o={};function s(e,a){return r(),t("em",null,[n(e.$slots,"default",{},void 0,!0)])}const l=c(o,[["render",s],["__scopeId","data-v-d0ebbcc7"]]);export{l as default};
