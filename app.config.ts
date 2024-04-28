@@ -11,12 +11,10 @@ export default defineAppConfig({
     },
     header: {
       position: 'right', // possible value are : | 'left' | 'center' | 'right'
-      image: {
-        path: '/3109.png', // path of the logo
-        pathDark: '/3109.png', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine', // alt of the logo
-        width: 100,
-        height: 100
+      logo: {
+        path: '/logo.svg', // path of the logo
+        pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
+        alt: 'alpine' // alt of the logo
       }
     },
     footer: {
