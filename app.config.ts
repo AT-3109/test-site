@@ -14,7 +14,9 @@ export default defineAppConfig({
       logo: {
         path: '/logo.svg', // path of the logo
         pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
+        alt: 'alpine', // alt of the logo
+        width: 100,
+        height: 100
       }
     },
     footer: {
